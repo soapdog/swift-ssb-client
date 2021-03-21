@@ -1,3 +1,5 @@
-struct ssb_client {
-    var text = "Hello, World!"
+import Sodium
+
+public class ssbClient {
+    
 }
